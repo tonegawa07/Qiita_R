@@ -7,3 +7,6 @@
 
 2. R, ggplot2, 複数系列ある棒グラフにエラーバーを付ける (geom_bar, geom_errorbar)
     qiita_2.R
+    
+3. 統計解析のためのR基礎_1 (演算子，関数，変数，基本統計量の算出)
+    qiita_3.R
